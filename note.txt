@@ -1,0 +1,3 @@
+Username (leave blank to use 'siva'): tech24
+Email address: tech24@gmail.com
+Password: tech12345
